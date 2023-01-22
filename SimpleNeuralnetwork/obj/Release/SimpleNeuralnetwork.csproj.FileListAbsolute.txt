@@ -1,0 +1,8 @@
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\bin\Release\SimpleNeuralnetwork.exe.config
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\bin\Release\SimpleNeuralnetwork.exe
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\bin\Release\SimpleNeuralnetwork.pdb
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\obj\Release\SimpleNeuralnetwork.csproj.AssemblyReference.cache
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\obj\Release\SimpleNeuralnetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\obj\Release\SimpleNeuralnetwork.csproj.CoreCompileInputs.cache
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\obj\Release\SimpleNeuralnetwork.exe
+C:\Users\HyperWin\source\repos\SimpleNeuralnetwork\SimpleNeuralnetwork\obj\Release\SimpleNeuralnetwork.pdb
